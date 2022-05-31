@@ -1,5 +1,6 @@
-# -JPA-Thymeleaf-Web-
-#实现一个JPA+Thymeleaf CURD Web应用
+# 实现一个JPA+Thymeleaf 增删改查 Web应用
+##技术栈：springboot+jpa+Thymeleaf+mysql 
+Thymeleaf实现简单的用户界面，包括添加用户、修改用户、用户列表，分别对应数据库增，删改，查。
 #
 实现效果
 #
